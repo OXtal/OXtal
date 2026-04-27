@@ -1,0 +1,23 @@
+# @package _global_
+chain_permutation:
+  train:
+    mini_rollout: true
+    diffusion_sample: false
+  test:
+    diffusion_sample: true
+  permute_by_pocket: true
+  configs:
+    use_center_rmsd: false
+    find_gt_anchor_first: false
+    accept_it_as_it_is: false
+    enumerate_all_anchor_pairs: false
+    selection_metric: "aligned_rmsd"
+
+atom_permutation:
+  train:
+    mini_rollout: true
+    diffusion_sample: false
+  test:
+    diffusion_sample: true
+  permute_by_pocket: true
+  global_align_wo_symmetric_atom: false

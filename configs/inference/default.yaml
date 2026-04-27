@@ -1,0 +1,21 @@
+# @package _global_
+#
+seeds:
+  - 101
+  - 102
+
+dump_dir: ${paths.base_dir}/output
+need_atom_confidence: False
+input_json_path: null
+load_checkpoint_path: null
+use_msa: false
+crystal_only: false
+num_workers: 8
+
+task_manager:
+  inference_task: "unconditional_structure"
+  inference_time: 1.0
+
+log_interval: 100
+ema_decay: 0.999
+append_start_time_to_run_name: false

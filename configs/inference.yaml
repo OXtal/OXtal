@@ -1,0 +1,10 @@
+# @package _global_
+#
+defaults:
+  - base
+  - override inference: default
+  - _self_
+
+# during inference
+inference_mode: "inference"
+deterministic: true

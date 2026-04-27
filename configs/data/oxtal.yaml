@@ -1,0 +1,4 @@
+num_dl_workers: 0
+epoch_size: 10000
+train_ref_pos_augment: true
+test_ref_pos_augment: true

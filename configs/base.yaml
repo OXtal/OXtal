@@ -1,0 +1,52 @@
+# @package _global_
+#
+# specify here default training configuration
+defaults:
+  - data: oxtal
+  - task_manager: default
+  - paths: from_env
+  - model: default
+  - perm: default
+  - loss: default
+  - logger: many_loggers
+  - fabric: default
+  - debug: null
+  - experiment: null
+  - inference: default
+  - _self_
+
+project: oxtal
+run_name: oxtal_train_${now:%Y-%m-%d}_${now:%H-%M-%S}
+append_start_time_to_run_name: True
+eval_interval: 400
+log_interval: 50
+checkpoint_interval: 100
+eval_first: False
+iters_to_accumulate: 1
+load_checkpoint_path: ${paths.base_dir}/${run_name}/checkpoints/latest.pt
+load_ema_checkpoint_path: ${paths.base_dir}/${run_name}/checkpoints/latest_ema_${ema_decay}.pt
+load_strict: False
+force_load: False # false in case no checkpoint available
+load_params_only: False
+skip_load_step: False
+skip_load_optimizer: False
+skip_load_scheduler: False
+skip_load_dataloader: False
+seed: 42
+deterministic: False
+bb_only: False
+input_json_path: examples/unconditional_foldflow_config.json
+ema_decay: -1.0
+eval_ema_only: False
+ema_mutable_param_keywords:
+  - ""
+
+# Originally in data config
+test_max_n_token: -1
+test_shuffle_mols: False
+test_shuffle_sym_ids: False
+use_fabric: True
+
+inference_random_transform_ref_pos: true
+inference_random_transform_msk_res: ${task_manager.transform_masked_ref_pos}
+inference_ref_pos_augment: ${task_manager.ref_pos_augment}

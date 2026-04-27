@@ -1,0 +1,744 @@
+[
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "CC1=CC(C#N)=C(S1)Nc2c([N+]([O-])=O)cccc2",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "QAXMEH"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "Cc1cccc(n1)C1=NN2CCCC2=C1c1ccnc2ccc(cc12)C(N)=O",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "DORDUM01"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "COc1cc2C(=C(Sc3nc(c4ccccc4)c(c4ccccc4)c(c1)c23)c1ccccc1)c1ccccc1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "BOTHUR"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "N1c2ccc(cc2c2cccnc12)C(c1ccc2Nc3ncccc3c2c1)(c1ccc2Nc3ncccc3c2c1)c1ccc2Nc3ncccc3c2c1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "MOVZUW"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "Nc1ccc(cc1)S(=O)(=O)N=C1NC=CS1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "SUTHAZ16"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "Cl[Rh]([P](c1ccccc1)(c1ccccc1)c1ccccc1)([P](c1ccccc1)(c1ccccc1)c1ccccc1)[P](c1ccccc1)(c1ccccc1)c1ccccc1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "TPPRHC01"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "OC(=O)c1ccccc1Nc1cccc(c1)C(F)(F)F",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "FPAMCA"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "COc1ccc2N(C(=C(CC(O)=O)c2c1)C)C(=O)c1ccc(Cl)cc1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "INDMET"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "COc1ccc(cc1)C(C(C=C)c1ccc(cc1)C(F)(F)F)c1ccccc1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "QUXHAW"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "Clc1cccc(N2CCN(CCCCOc3ccc4CCC(=O)Nc4c3)CC2)c1Cl",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "MELFIT"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "CC(C)C(NC(=O)N(C)CC1=CSC(=N1)C(C)C)C(=O)NC(CC(O)C(Cc1ccccc1)NC(=O)OCC1=CN=CS1)Cc1ccccc1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "YIGPIO"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "CCC(C)N1N=CN(C1=O)c1ccc(cc1)N1CCN(CC1)c1ccc(OCC2COC(CN3C=NC=N3)(O2)c2ccc(Cl)cc2Cl)cc1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "TEHZIP"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "OCC(O)C(O)C(O)C(O)CO",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "DMANTL09"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "O1C(=CC=C1c1ccc(cc1)c1ccccc1)C1=CC=C(S1)c1ccc(cc1)c1ccccc1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "YIGDUP"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "FILE_./examples/BIPY.sdf",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "UWEQUL"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "OC(=O)c1ccc2cc(ccc2c1)c1cc(c2ccc3cc(ccc3c2)C(O)=O)c2ccc3c(cc(c4ccc5cc(ccc5c4)C(O)=O)c4ccc1c2c34)c1ccc2cc(ccc2c1)C(O)=O",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "COWZIA"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "CC(C)C1=NNc2cccc(OCC(=O)NCc3ccccn3)c12",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "CUYGEM"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "OC(CCCC1=Nc2ccccc2S1)c1ccc(Br)cc1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "YUYLAJ"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "CCOC(=O)CN(c1ccncc1)c1ccc(OC)cc1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "DABHIC"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "O=C(Nc1cccnc1)c1cc(cc(c1)N(=O)=O)N(=O)=O",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "HUWPUO"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "COc1ccccc1C(=O)NC1CCCCC1N(C)C",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "QURBEO"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "CCOC(=O)C1C2=C(c3ccccc3N2S(=O)(=O)c2ccc(C)cc2)C2=C1c1ccccc1N(Cc1ccccc1)C2=O",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "QUTZUE"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "O=Cc1ccc(cc1)C1=CN(c2ccccc2)c2ncnc(c3ccc(C=O)cc3)c12",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "MUSXUX"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "OC1C(CCC1Cc1ccccc1)Cc1ccccc1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "CABFIZ"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "O=Cc1ccc(cc1)c1nc2C=CN(c3ccccc3)c2c(n1)c1ccc(C=O)cc1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "MUSYAE"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "CC(C)C1CCC(C)CC1OC(=O)Oc1ccc2cc(C=C)ccc2c1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "CAFHUR"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "CC1CCC(Br)C2(CCC(=O)O2)C1(C)CC(C)=O",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            },
+            {
+                "ligand": {
+                    "ligand": "CC1CCC(Br)C2(CCC(=O)O2)C1(C)CC(C)=O",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "CUYVUR"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "O=C1CCC(CC1Oc1nc(nc2ccccc12)c1ccccc1)c1ccccc1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "JABXIY"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "CC1CC(O)C=C2CCC(OC(C)=O)C(C(C)=COC(C)=O)C12C",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            },
+            {
+                "ligand": {
+                    "ligand": "CC1CC(O)C=C2CCC(OC(C)=O)C(C(C)=COC(C)=O)C12C",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "CUYWAY"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "OCC1(CO)CC2C(C1)C(=C)CN2OCc1ccccc1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "QURPUS"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "COc1ccc(cc1Br)c1cc(nc(OCC#N)c1C#N)C1=C(Cl)SC(=C1)Cl",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "FACDOH"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "O=N(=O)c1cc2OCOc2cc1C=NNC(=S)N1CC=CC1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "CUWLIT"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "O=C(CN1C=CC=C1C1NC(=O)c2ccccc2N1)c1ccccc1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "CAFHEB"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "Brc1c(Br)c(Br)c2[O-][Co]345(Oc6ccccc6C=N3CCCN4=Cc3ccccc3O5)Oc2c1Br",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            },
+            {
+                "ligand": {
+                    "ligand": "CC[NH+](CC)CC",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "RUSXEM"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "Cc1ccc(cc1C)C(=O)C=CC=CC(=O)c1ccc(C)c(C)c1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "FUVLAN"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "CCCCN1c2ccc3ccc4N(CCCC)c5ccc6ccc1c1c6c5c4c3c21",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "BUYWUR"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "CCOC(=O)C1=C2Sc3ccccc3C(=O)N2C(=C1)c1ccc(C)cc1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            },
+            {
+                "ligand": {
+                    "ligand": "CCOC(=O)C1=C2Sc3ccccc3C(=O)N2C(=C1)c1ccc(C)cc1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "DUVCOQ"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "O=C(CC1SC(=S)N(C1=O)c1ccccc1)Nc1ccccc1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "DUZTOL"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "COc1cccc(CN2C(=O)CC(c3ccccc3)C2(O)c2ccccc2)c1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "RUWFAU"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "CSc1ccc(cc1)N=CC1=CSc2ccccc12",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            },
+            {
+                "ligand": {
+                    "ligand": "CSc1ccc(cc1)N=CC1=CSc2ccccc12",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "HUTDOT"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "Oc1ccc(cc1)C1=NOC(=N1)CN1c2ccccc2C=C1c1ccc(Cl)cc1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "VUZQUG"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "O=CC=C(c1ccccc1)c1ccc(c(C=O)c1)c1ccccc1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "HUTKOA"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "CC1=C2CCCCC2=C(N1c1cccc2ccccc12)c1ccc(Cl)c(Cl)c1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            },
+            {
+                "ligand": {
+                    "ligand": "CC1=C2CCCCC2=C(N1c1cccc2ccccc12)c1ccc(Cl)c(Cl)c1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "MUYRIL"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "Fc1ccc(cc1)C1=CC(=C(S1)C1=C(C=C(S1)c1ccc(F)cc1)c1ccc(F)cc1)c1ccc(F)cc1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "QUSQAA"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "COC(=O)c1cc(OC)c2OCOc2c1c1c(CO)cc(OC)c2OCOc12",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "MURQUP"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "CCOC(=O)c1nc2ccccc2cc1C(=O)c1ccccc1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "RUTJUP"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "COc1ccc2c(CCC3C(c4ccc(OC)cc4C23C)c2c(OC)cc(OC)cc2OC)c1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "MUSTIH"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "c1ccc(cc1)C(c1ccncc1)(c1cncnc1)c1ncccn1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "YABFAN"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "CC1=NN(C(=C1)C)C(=O)C1(CC(C1)(C(=O)c1ccc(Cl)cc1)c1ccccc1)C(F)(F)F",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "MUZKOL"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "FC(F)(F)C(OC(=Nc1ccccc1CC=O)c1ccc(cc1)C#N)C(F)(F)F",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "HABMUX"
+    }
+]

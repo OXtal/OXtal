@@ -1,0 +1,30 @@
+[
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "c1ccc(cc1)C(c1ccncc1)(c1cncnc1)c1ncccn1",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "YABFAN"
+    },
+    {
+        "sequences": [
+            {
+                "ligand": {
+                    "ligand": "[NH3+]CC(=O)[O-]",
+                    "count": 30,
+                    "id_key": "ligand"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "GLYCIN33"
+    }
+]

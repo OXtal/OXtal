@@ -1,0 +1,7 @@
+_target_: oxtal.data.task_manager.TaskManager
+tasks:
+  folding:
+    frac: 1.0
+mask_type: "uniform"
+transform_masked_ref_pos: true
+ref_pos_augment: ${data.train_ref_pos_augment}

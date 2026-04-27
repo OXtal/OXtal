@@ -1,0 +1,8 @@
+wandb:
+  _target_: wandb.integration.lightning.fabric.WandbLogger
+  save_dir: ${paths.run_dir}
+  # Waiting for config
+  project: <PROJECT_NAME>
+  entity: <ENTITY_NAME>
+  name: ${run_name}
+  id: null

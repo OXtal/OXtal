@@ -1,0 +1,3 @@
+base_dir: ./outputs
+run_dir: ${.base_dir}/${run_name}
+
