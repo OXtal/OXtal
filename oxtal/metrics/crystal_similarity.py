@@ -354,7 +354,7 @@ def main(argv: Optional[List[str]] = None) -> None:
                     help="Distance tolerance (fraction, default 0.50)")
     ap.add_argument("--angle-tol", type=float, default=75.0, 
                     help="Angle tolerance in degrees (default 75.0)")
-    ap.add_argument("--timeout-ms", type=int, default=100000, # 5000; 100000, ## 1 extra 0 NOTE: LONGER TIME WILL MATCH MORE DISTANTLY RELATED THINGS, KEEP IT AT 5000 FOR QUICK TURNAROUND
+    ap.add_argument("--timeout-ms", type=int, default=10000, # NOTE: LONGER TIME WILL MATCH MORE DISTANTLY RELATED THINGS, KEEP IT AT 5000 FOR QUICK TURNAROUND
                     help="Comparison timeout in ms (0 = none)")
     ap.add_argument("--allow-molecular-differences", action="store_true", # NOTE: DO NOT DO, WILL TAKE FOREVER
                     help="Allow different compounds to be compared (default: off)")
