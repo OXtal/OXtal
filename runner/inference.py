@@ -85,7 +85,7 @@ class InferenceRunner:
     def load_checkpoint(self) -> None:
         checkpoint_path = hf_hub_download(
             repo_id="OXtal-CSP/OXtal",
-            filename="OXtal.pt",
+            filename="OXtal-v1.1.pt",
         )
         self.print(f"Loading from {checkpoint_path}, strict: {self.configs.load_strict}")
         checkpoint = torch.load(checkpoint_path, self.device)
