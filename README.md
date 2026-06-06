@@ -1,8 +1,11 @@
-# 🔮 OXtal: Generative Molecular Crystal Structure Prediction
+<p align="center">
+    <img src="assets/oxtal-logo.png" alt="OXtal: Generative Molecular Crystal Structure Prediction" width="900"/><br>
+  <a href="https://arxiv.org/abs/2512.06987"><img src="https://img.shields.io/badge/arXiv-94133F?style=for-the-badge&logo=arxiv" alt="arXiv"/></a>
+  <a href="https://oxtal.github.io/"><img src="https://img.shields.io/badge/📝%20Blog-007A87?style=for-the-badge&logoColor=white" alt="Blog"/></a>
+  <a href="https://huggingface.co/OXtal-CSP"><img src="https://img.shields.io/badge/HuggingFace-DE9B35.svg?style=for-the-badge&logo=HuggingFace" alt="HF"/></a>
+</p>
 
-This is the official repository for OXtal, a diffusion-based generative model for molecular crystal structure prediction. For more information, please see our ICLR 2026 paper [here](https://arxiv.org/abs/2512.06987).
-
-This code heavily relies on and builds off of the [Protenix](https://github.com/bytedance/Protenix) code base, and we thank the authors of that work for their efforts.
+**OX**tal (**O**rganic **X** "Crys-" tal) is an all-atom diffusion model for molecular crystal structure prediction (CSP). Unlike traditional quantum-chemical approaches, which rely on expensive energy oracles, OXtal generates fast and accurate zero-shot predictions at a fraction of the cost. Specifically, OXtal recovers experimental crystal structures for both rigid and flexible molecules, as well as co-crystals, with conformer RMSD1 < 0.5 Å and attains over 80% packing similarity rate, demonstrating its ability to model both thermodynamic and kinetic regularities of molecular crystallization.
 
 ## ⚙️ Installation and Setup
 OXtal was developed with Python 3.11.0, CUDA 12.6, and PyTorch 2.5.0, but you may need to adjust these accordingly to match your own compute resources. To set up the environment, run the following commands from the top-level `OXtal` directory, which should create the `oxtal-env` environment in `.venv/`
@@ -129,7 +132,12 @@ bash run_eval.sh
 ```
 and the evaluation summary report will be generated in `evaluation/metric_summary.txt`. You can modify paths and file names as necessary in `run_eval.sh`.
 
-## 📙 Cite
+## 🙏 Acknowledgements
+This code heavily relies on and builds off of the [Protenix](https://github.com/bytedance/Protenix) code base, and we thank the authors of that work for their efforts.
+
+We'd also like to thank [CCDC](https://www.ccdc.cam.ac.uk/) for their support in helping us maintain our commitment to open science. 
+
+## 📖 Cite
 If you make use of this code or its accompanying [paper](https://arxiv.org/abs/2512.06987), please cite this work as follows:
 ```
 @inproceedings{jin2025oxtal,
