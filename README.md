@@ -149,13 +149,14 @@ If you make use of this code or its accompanying [paper](https://arxiv.org/abs/2
 ```
 
 ## 📄 License
-[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
-OXtal was trained on data from [CCDC's Cambridge Structural Database](https://www.ccdc.cam.ac.uk/). Therefore, this work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International][cc-by-nc] (CC BY-NC 4.0) License. For commercial use, please ensure that you have a proper [CCDC License](https://www.ccdc.cam.ac.uk/support-and-resources/licensing-information/). 
+[![MIT License][mit-shield]][mit] [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
-[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+The **source code** for OXtal is released under an MIT License (see [LICENCE-SOURCE-CODE][mit]). However, since OXtal was trained on data from [CCDC's Cambridge Structural Database](https://www.ccdc.cam.ac.uk/), the **model weights** are released under a [Creative Commons Attribution-NonCommercial 4.0 International][cc-by-nc] (CC BY-NC 4.0) License (see [LICENCE-MODEL-WEIGHTS][weights]). For commercial use of the model weights, please ensure that you have a proper [CCDC License](https://www.ccdc.cam.ac.uk/support-and-resources/licensing-information/).
 
+[mit]: LICENSE-SOURCE-CODE
+[mit-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
+[weights]: LICENSE-MODEL-WEIGHTS
 [cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
-[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
 [cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
 
