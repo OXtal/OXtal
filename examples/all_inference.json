@@ -1085,13 +1085,6 @@
                     "count": 30,
                     "id_key": "ligand"
                 }
-            },
-            {
-                "ligand": {
-                    "ligand": "CC1CCC(Br)C2(CCC(=O)O2)C1(C)CC(C)=O",
-                    "count": 30,
-                    "id_key": "ligand"
-                }
             }
         ],
         "modelSeeds": [],
@@ -1114,13 +1107,6 @@
     },
     {
         "sequences": [
-            {
-                "ligand": {
-                    "ligand": "CC1CC(O)C=C2CCC(OC(C)=O)C(C(C)=COC(C)=O)C12C",
-                    "count": 30,
-                    "id_key": "ligand"
-                }
-            },
             {
                 "ligand": {
                     "ligand": "CC1CC(O)C=C2CCC(OC(C)=O)C(C(C)=COC(C)=O)C12C",
@@ -1246,13 +1232,6 @@
                     "count": 30,
                     "id_key": "ligand"
                 }
-            },
-            {
-                "ligand": {
-                    "ligand": "CCOC(=O)C1=C2Sc3ccccc3C(=O)N2C(=C1)c1ccc(C)cc1",
-                    "count": 30,
-                    "id_key": "ligand"
-                }
             }
         ],
         "modelSeeds": [],
@@ -1295,13 +1274,6 @@
                     "count": 30,
                     "id_key": "ligand"
                 }
-            },
-            {
-                "ligand": {
-                    "ligand": "CSc1ccc(cc1)N=CC1=CSc2ccccc12",
-                    "count": 30,
-                    "id_key": "ligand"
-                }
             }
         ],
         "modelSeeds": [],
@@ -1338,13 +1310,6 @@
     },
     {
         "sequences": [
-            {
-                "ligand": {
-                    "ligand": "CC1=C2CCCCC2=C(N1c1cccc2ccccc12)c1ccc(Cl)c(Cl)c1",
-                    "count": 30,
-                    "id_key": "ligand"
-                }
-            },
             {
                 "ligand": {
                     "ligand": "CC1=C2CCCCC2=C(N1c1cccc2ccccc12)c1ccc(Cl)c(Cl)c1",
